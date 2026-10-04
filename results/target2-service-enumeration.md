@@ -42,5 +42,5 @@ vulnerability or compromise.
 The scan successfully identified an SSH service on TCP/22 and provided
 its software and version information.
 
-The result was documented as service exposure and inventory information,
+The result was documented as service exposure and inventory information
 rather than automatically classified as a vulnerability.
